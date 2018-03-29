@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\FlatShader.cpp">
+    <ClCompile Include="FlatShader.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
