@@ -1,0 +1,6 @@
+﻿  TextureArrays.cpp
+c:\mydocument\learn4research\cv&cg\github\opengl\texturearray\texturearray\texturearrays.cpp(127): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\mydocument\learn4research\cv&cg\github\opengl\texturearray\texturearray\texturearrays.cpp(259): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+  TextureArray.vcxproj -> C:\MyDocument\Learn4Research\CV&CG\GitHub\OpenGL\TextureArray\Debug\TextureArray.exe
+  TextureArray.vcxproj -> C:\MyDocument\Learn4Research\CV&CG\GitHub\OpenGL\TextureArray\Debug\TextureArray.pdb (Full PDB)
